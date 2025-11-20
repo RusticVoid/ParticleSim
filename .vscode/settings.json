@@ -1,0 +1,12 @@
+{
+    "Lua.diagnostics.disable": [
+        "lowercase-global",
+        "undefined-global",
+        "inject-field",
+        "empty-block",
+        "trailing-space",
+        "duplicate-set-field",
+        "undefined-field",
+        "unused-local"
+    ]
+}
